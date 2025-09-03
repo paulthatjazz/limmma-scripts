@@ -1,3 +1,3 @@
 ## LIMMMA Scripts
 
-A collection of scripts used to prepare data for the LIMMMMA platform
+A collection of scripts used to prepare data for the LIMMMA platform
