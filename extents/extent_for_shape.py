@@ -63,9 +63,9 @@ def get_filtered_extent(layer_name, cql_filter, name, region):
 if __name__ == "__main__":
 
     # Layer name, cql filter, name, region
-    layer_name = "ind:ADM_ADM_0"
-    cql_filter = "1=1"
-    name = "Indonesia"
+    layer_name = "ind:ADM_ADM_1"
+    cql_filter = "NAME_1 = 'Papua Barat'"
+    name = "West Papua (Papua Barat)"
     region = "Indonesia"
 
     ruby_snippet = get_filtered_extent(layer_name, cql_filter, name, region)

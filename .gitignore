@@ -1,0 +1,3 @@
+*.gpkg
+*.tif
+rasters_by_year/*
