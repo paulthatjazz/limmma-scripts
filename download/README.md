@@ -2,7 +2,7 @@
 
 #### Download global canopy height data
 
-Hardcoded coordinates
+NOTE: Uses hardcoded coordinates
 
 ```python3 download_global_canopy_data.py```
 
