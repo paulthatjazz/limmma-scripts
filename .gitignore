@@ -1,3 +1,11 @@
 *.gpkg
 *.tif
+*.shp
+*.csv
+*.cpg
+*.dbf
+*.prj
+*.shx
+*.zip
+*.xml
 rasters_by_year/*
