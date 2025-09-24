@@ -21,8 +21,8 @@ from geo.Geoserver import Geoserver
 # GeoServer configuration
 creds = {
     "url": "https://landscapes.wearepal.ai/geoserver/",
-    "username": "admin",
-    "password": "docker stack rm landscapes"
+    "username": "USER",
+    "password": "PASSWORD"
 }
 
 # Initialize GeoServer connection
