@@ -4,8 +4,8 @@ from geo.Geoserver import Geoserver
 
 creds = {
     "url": "https://landscapes.wearepal.ai/geoserver/",
-    "username": "admin",
-    "password": "docker stack rm landscapes"
+    "username": "USER",
+    "password": "PASSWORD"
 }
 
 gs = Geoserver(creds["url"], username=creds["username"], password=creds["password"])
